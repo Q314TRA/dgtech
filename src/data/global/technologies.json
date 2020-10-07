@@ -1,0 +1,45 @@
+[
+    {
+        "id": "amazon",
+        "image": "../images/partners/Amazon_Fire_TV_Logo_RGB.png",
+        "hover_image": "../images/partners/Amazon_Fire_TV_Logo_RGB.png",
+        "path": "/"
+    },
+    {
+        "id": "raspberry",
+        "image": "../images/partners/raspberry.png",
+        "hover_image": "../images/partners/raspberry.png",
+        "path": "/"
+    },
+    {
+        "id": "tizen",
+        "image": "../images/partners/Tizen-Lockup-On-Light-RGB.png",
+        "hover_image": "../images/partners/Tizen-Lockup-On-Light-RGB.png",
+        "path": "/"
+    },
+    {
+        "id": "android",
+        "image": "../images/partners/android.png",
+        "hover_image": "../images/partners/android.png",
+        "path": "/"
+    },
+    {
+        "id": "apple",
+        "image": "../images/partners/apple.png",
+        "hover_image": "../images/partners/apple.png",
+        "path": "/"
+    },
+    {
+        "id": "arduino",
+        "image": "../images/partners/arduino.png",
+        "hover_image": "../images/partners/arduino.png",
+        "path": "/"
+    },
+    {
+        "id": "webos",
+        "image": "../images/partners/lgwebos.png",
+        "hover_image": "../images/partners/lgwebos.png",
+        "path": "/"
+    }
+    
+]
