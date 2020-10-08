@@ -9,9 +9,9 @@ module.exports = {
     author: `@dgTech`,
     twitterUsername: `@dgTech`,
     image: 'landing.png',
-    siteUrl: 'https://dgtech.com',
+    siteUrl: 'https://dgtechs.com.co',
     getform: ".",
-    copyright: "Digital technologies. <a href='https://dgtech.com' target='_blank' rel='noopener noreferrer'>All Rights Reserved.</a>",
+    copyright: "Digital technologies. <a href='https://dgtechs.com.co' target='_blank' rel='noopener noreferrer'>All Rights Reserved.</a>",
     social: {
       facebook: "https://www.facebook.com",
       twitter: "https://www.twitter.com",
@@ -21,8 +21,8 @@ module.exports = {
     contact: {
       phone: '(+57) 300 485-9118',
       address: "Cra 41 #960 Poblado - Medellin Antioquia",
-      email: 'contacto@dgtech.com',
-      website: "https://dgtech.com",
+      email: 'contacto@dgtechs.com.co',
+      website: "https://dgtechs.com.co",
       rating: "5",
       customers: "700",
       clients: "3200",
