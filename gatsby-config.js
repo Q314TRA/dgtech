@@ -31,7 +31,7 @@ module.exports = {
           "id": "med-antioquia",
           "state": "Medellin",
           "address": "Cra 41 #960 Poblado - Medellin Antioquia",
-          "email": "contacto@aldebarant.com",
+          "email": "contacto@dgtechs.com.co",
           "phone": "(+57) 300 485-9118"
         }
       ]

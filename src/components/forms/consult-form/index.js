@@ -37,16 +37,16 @@ const ConsultForm = ({ btnStyle }) => {
                 "Messages": [
                     {
                         "From": {
-                            "Email": "admin@aldebarant.com",
+                            "Email": "contacto@dgtechs.com.co",
                             "Name": "Digital technologies"
                         },
                         "To": [
                             {
-                                "Email": "admin@aldebarant.com",
-                                "Name": "aldebarant"
+                                "Email": "contacto@dgtechs.com.co",
+                                "Name": "dgtechs"
                             }
                         ],
-                        "Subject": `Digital technologies ${data.subject}`,
+                        "Subject": `${data.subject}`,
                         "TextPart": 'Concato web',
                         "HTMLPart": `<h3>Contacto</h3>, <br/> 
                     <p><strong>Email:<strong>${data.email}<p>
